@@ -5,3 +5,5 @@ def my_function(x, y):
 
 print("Tang")
 
+print("lu")
+
