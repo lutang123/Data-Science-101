@@ -1,9 +1,0 @@
-print("hello")
-
-def my_function(x, y):
-    return x+y
-
-print("Tang")
-
-print("lu")
-
